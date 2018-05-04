@@ -21,7 +21,7 @@ Documentation: https://docs.google.com/document/d/14lMATvlsUmbfTNboJ7c1Zs6ajfpSE
 ## Plan
 
 - [x] [**Day 1**](docs/day-01.md) Recreate famous logos, brush up on vector tools, tracing, masking.
-- [x] **Day 2** Learn and use geometric shapes to recreate logos.
+- [x] [**Day 2**](docs/day-02.md) Learn and use geometric shapes to recreate logos.
 - [ ] **Day 3** Design the initial variations of the JavaScript Tribe logo.
 - [ ] **Day 4** Recreate more complex logos.
 - [ ] **Day 5** Design a logo for Helsinki Food Guide.
