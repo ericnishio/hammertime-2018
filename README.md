@@ -4,8 +4,6 @@ The objective of this Hammer Time project is to improve my logo design skills in
 
 I'm already familiar with Sketch as a designer's tool, but I've never been satisfied with the quality of the logos I've created so I'd like to invest time in solving this problem.
 
-Documentation: https://docs.google.com/document/d/14lMATvlsUmbfTNboJ7c1Zs6ajfpSEUq2s8wjlfBfQ-Y/edit
-
 ## Overview
 
 - Improve my creative process
