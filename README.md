@@ -1,5 +1,9 @@
 # Hammer Time 2018: Logo Design
 
+The objective of this Hammer Time project is to improve my logo design skills in twelve days by learning creative processes and technical tricks to accelerate the design process.
+
+I'm already familiar with Sketch as a designer's tool, but I've never been satisfied with the quality of the logos I've created so I'd like to invest time in solving this problem.
+
 Documentation: https://docs.google.com/document/d/14lMATvlsUmbfTNboJ7c1Zs6ajfpSEUq2s8wjlfBfQ-Y/edit
 
 ## Overview
@@ -16,7 +20,7 @@ Documentation: https://docs.google.com/document/d/14lMATvlsUmbfTNboJ7c1Zs6ajfpSE
 
 ## Plan
 
-- [x] **Day 1** Recreate famous logos, brush up on vector tools, tracing, masking.
+- [x] [**Day 1**](docs/day-01.md) Recreate famous logos, brush up on vector tools, tracing, masking.
 - [x] **Day 2** Learn and use geometric shapes to recreate logos.
 - [ ] **Day 3** Design the initial variations of the JavaScript Tribe logo.
 - [ ] **Day 4** Recreate more complex logos.
