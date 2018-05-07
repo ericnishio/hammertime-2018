@@ -1,8 +1,10 @@
 # Hammer Time 2018: Logo Design
 
-The objective of this Hammer Time project is to improve my logo design skills in twelve days by learning creative processes and technical tricks to accelerate the design process.
+The objective of this twelve-day Digia R&D project is to improve my logo design skills by learning creative practices and techniques.
 
-I'm already familiar with Sketch as a designer's tool, but I've never been satisfied with the quality of the logos I've created so I'd like to invest time in solving this problem.
+I will be using [Sketch](https://www.sketchapp.com) as my primary tool to work on logos, and pencil and paper to sketch out ideas. The learning process will vastly consist of referring to free online resources such as videos and blog posts, the best of which I will feature in this write-up.
+
+I'm hoping that the documentation I produce during this project can serve as a stepping stone for others to pursue similar learning experiences.
 
 ## Overview
 
