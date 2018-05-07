@@ -30,3 +30,8 @@ I'm already familiar with Sketch as a designer's tool, but I've never been satis
 - [ ] **Day 10**
 - [ ] **Day 11**
 - [ ] **Day 12** Final write-up.
+
+## Useful resources
+
+- [Drawing vector shapes](https://www.youtube.com/watch?v=GWueR0dgt2A)
+- [Auto-scaling artboards, and using reusable and overridable symbols](https://www.youtube.com/watch?v=73rxh6tiWbU)
