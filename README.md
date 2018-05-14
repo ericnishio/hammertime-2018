@@ -6,7 +6,7 @@ I will be using [Sketch](https://www.sketchapp.com) as my primary tool to work o
 
 I'm hoping that the documentation I produce during this project can serve as a stepping stone for others to pursue similar learning experiences.
 
-## Overview
+## Objectives
 
 - Improve my creative process
 - Learn creative methods and hacks
