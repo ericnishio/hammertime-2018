@@ -2,6 +2,10 @@
 
 Today I worked on an original logo design for Digia's JavaScript tribe.
 
+I started off by sketching out a few ideas on paper.
+
+<img src="images/js-tribe-pen-1.jpg" height="100" /><img src="images/js-tribe-pen-2.jpg" height="100" /><img src="images/js-tribe-pen-3.jpg" height="100" />
+
 The tribe is a JavaScript-related club within a company so I figured I could borrow ideas from both JavaScript and the company to create an amalgamation of sorts.
 
 I decided to go with two container options that would give the overall look and feel of the design: the hexagonal shape (fig. V1) used in the official Node logo, and a plain square (fig. V3) which is commonly seen in JavaScript icons.
