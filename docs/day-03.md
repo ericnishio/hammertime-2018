@@ -21,3 +21,5 @@ Finally, I experimented with decorative features and sprinkled some JavaScript o
 ![Digia JavaScript Tribe](images/js-tribe-1.png)
 
 ![Digia.js](images/js-tribe-choice-1.png)
+
+![Digia.js](images/js-tribe-choice-2.png)
