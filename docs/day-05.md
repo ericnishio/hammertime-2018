@@ -22,3 +22,13 @@ https://helsinkifoodguide.com
 - Wine
 - Pots and cauldrons
 - Campfire
+
+## Influences
+
+<img src="images/helsinki-coat-of-arms.svg" height="400" />
+
+## Variations
+
+<img src="images/helsinki-food-guide-1.png" />
+
+<img src="images/helsinki-food-guide-2.png" />

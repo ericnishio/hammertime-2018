@@ -24,7 +24,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 2**](docs/day-02.md) Learn and use geometric shapes to recreate logos
 - [x] [**Day 3**](docs/day-03.md) Design the initial variations of the JavaScript Tribe logo
 - [x] [**Day 4**](docs/day-04.md) Create my own variations of famous logos
-- [ ] **Day 5** Design a logo for Helsinki Food Guide
+- [x] [**Day 5**](docs/day-05.md) Design a logo for Helsinki Food Guide
 - [ ] **Day 6** Create contextual variations of the Helsinki Food Guide logo
 - [ ] **Day 7**
 - [ ] **Day 8**
