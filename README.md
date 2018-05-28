@@ -37,3 +37,4 @@ I'm hoping that the documentation I produce during this project can serve as a s
 
 - [Drawing vector shapes](https://www.youtube.com/watch?v=GWueR0dgt2A)
 - [Auto-scaling artboards, and using reusable and overridable symbols](https://www.youtube.com/watch?v=73rxh6tiWbU)
+- [Logo Design Tips from the Pros](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221)
