@@ -27,7 +27,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 5**](docs/day-05.md) Design a logo for [helsinkifoodguide.com](https://helsinkifoodguide.com)
 - [x] [**Day 6**](docs/day-06.md) Design logos for imaginary concepts
 - [x] [**Day 7**](docs/day-07.md) Design a logo for [finnishholidays.com](https://finnishholidays.com)
-- [ ] **Day 8**
+- [ ] **Day 8** Design more logo variations for [finnishholidays.com](https://finnishholidays.com)
 - [ ] **Day 9**
 - [ ] **Day 10**
 - [ ] **Day 11**
@@ -37,4 +37,5 @@ I'm hoping that the documentation I produce during this project can serve as a s
 
 - [Drawing vector shapes](https://www.youtube.com/watch?v=GWueR0dgt2A)
 - [Auto-scaling artboards, and using reusable and overridable symbols](https://www.youtube.com/watch?v=73rxh6tiWbU)
-- [Logo Design Tips from the Pros](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221)
+- [Logo design tips from the pros](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221)
+- [Rotate copies](https://sketchapp.com/docs/shapes/rotate-copies/)
