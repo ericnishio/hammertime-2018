@@ -25,10 +25,10 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 3**](docs/day-03.md) Design the initial variations of the JavaScript Tribe logo
 - [x] [**Day 4**](docs/day-04.md) Create my own variations of famous logos
 - [x] [**Day 5**](docs/day-05.md) Design a logo for [helsinkifoodguide.com](https://helsinkifoodguide.com)
-- [x] [**Day 6**](docs/day-06.md) Design logos for imaginary concepts
+- [x] [**Day 6**](docs/day-06.md) Design logos for miscellaneous concepts
 - [x] [**Day 7**](docs/day-07.md) Design a logo for [finnishholidays.com](https://finnishholidays.com)
 - [x] [**Day 8**](docs/day-08.md) Design more logo variations for [finnishholidays.com](https://finnishholidays.com)
-- [ ] **Day 9** Design a logo for PennyClerk [pennyclerk.com](https://pennyclerk.com)
+- [ ] **Day 9** Design a logo for [ericnish.io](https://ericnish.io)
 - [ ] **Day 10**
 - [ ] **Day 11**
 - [ ] **Day 12** Final write-up

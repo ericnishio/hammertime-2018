@@ -4,6 +4,6 @@
 
 <img src="images/miyazaki.png" />
 
-## ericnish.io
+## Personal badges
 
 <img src="images/ericnishio.png" />
