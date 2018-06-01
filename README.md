@@ -28,7 +28,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 6**](docs/day-06.md) Design logos for miscellaneous concepts
 - [x] [**Day 7**](docs/day-07.md) Design a logo for [finnishholidays.com](https://finnishholidays.com)
 - [x] [**Day 8**](docs/day-08.md) Design more logo variations for [finnishholidays.com](https://finnishholidays.com)
-- [ ] **Day 9** Design a logo for [ericnish.io](https://ericnish.io)
+- [x] [**Day 9**](docs/day-09.md) Design a logo for [ericnish.io](https://ericnish.io)
 - [ ] **Day 10**
 - [ ] **Day 11**
 - [ ] **Day 12** Final write-up

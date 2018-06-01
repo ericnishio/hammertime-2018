@@ -6,4 +6,4 @@
 
 ## Personal badges
 
-<img src="images/ericnishio.png" />
+<img src="images/personal-badges.png" />

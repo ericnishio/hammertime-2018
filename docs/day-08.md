@@ -8,8 +8,8 @@ https://finnishholidays.com
 
 ## Favicon preview
 
-<img src="images/finnish-holidays-favicon.png">
+<img src="images/finnish-holidays-favicon.png" />
 
 ## App preview
 
-<img src="images/finnish-holidays-app.png">
+<img src="images/finnish-holidays-app.png" />
