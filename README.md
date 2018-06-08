@@ -29,7 +29,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 7**](docs/day-07.md) Design a logo for [finnishholidays.com](https://finnishholidays.com)
 - [x] [**Day 8**](docs/day-08.md) Design more logo variations for [finnishholidays.com](https://finnishholidays.com)
 - [x] [**Day 9**](docs/day-09.md) Design a logo for [ericnish.io](https://ericnish.io)
-- [ ] **Day 10** Design a logo for [self-learner.com](http://self-learner.com)
+- [x] [**Day 10**](docs/day-10.md) Design a logo for [self-learner.com](http://self-learner.com)
 - [ ] **Day 11** Design a logo for [express-boilerplate](https://github.com/ericnishio/express-boilerplate)
 - [ ] **Day 12** Final write-up
 
