@@ -30,7 +30,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 8**](docs/day-08.md) Design more logo variations for [finnishholidays.com](https://finnishholidays.com)
 - [x] [**Day 9**](docs/day-09.md) Design a logo for [ericnish.io](https://ericnish.io)
 - [x] [**Day 10**](docs/day-10.md) Design a logo for [self-learner.com](http://self-learner.com)
-- [ ] **Day 11** Design a logo for [express-boilerplate](https://github.com/ericnishio/express-boilerplate)
+- [x] [**Day 11**](docs/day-11.md) Design logos for my [open-source projects](https://github.com/ericnishio?tab=repositories)
 - [ ] **Day 12** Final write-up
 
 ## Useful resources
@@ -39,3 +39,4 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [Auto-scaling artboards, and using reusable and overridable symbols](https://www.youtube.com/watch?v=73rxh6tiWbU)
 - [Logo design tips from the pros](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221)
 - [Rotate copies](https://sketchapp.com/docs/shapes/rotate-copies/)
+- [How to scale shapes proportionally](https://www.reddit.com/r/sketchapp/comments/2u4s9h/how_do_you_convert_a_shape_border_to_a_shape/)
