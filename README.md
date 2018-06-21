@@ -31,7 +31,7 @@ I'm hoping that the documentation I produce during this project can serve as a s
 - [x] [**Day 9**](docs/day-09.md) Design a logo for [ericnish.io](https://ericnish.io)
 - [x] [**Day 10**](docs/day-10.md) Design a logo for [self-learner.com](http://self-learner.com)
 - [x] [**Day 11**](docs/day-11.md) Design logos for my [open-source projects](https://github.com/ericnishio?tab=repositories)
-- [ ] **Day 12** Final write-up
+- [x] [**Day 12**](docs/day-12.md) Final write-up
 
 ## Useful resources
 
